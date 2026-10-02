@@ -1,3 +1,4 @@
+
 # 🌾 Weed Crop Detector
 
 A YOLO11n-based object detection system that detects and classifies crop and weed plants in agricultural field images.
@@ -135,3 +136,6 @@ pip install -r requirements.txt
 Then:
 
 yolo predict model=model/crop_weed_detector_best.pt source=your_image.jpg
+
+# NCD-5
+
